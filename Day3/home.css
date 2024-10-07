@@ -1,0 +1,48 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.fitems{
+  
+    
+    
+    margin: 7px;
+    padding: 5px;
+    text-align: center;
+    align-content: center;
+    border-radius: 10px;
+
+
+}
+.navbar{
+    display: flex;
+    height: 60px;
+    justify-content: space-between;
+    background-color: darkslategrey;
+    font-size:x-large;
+   
+  
+    border-radius: 10px;
+    border: solid black;
+}
+.login{
+    display: flex;
+    justify-content: space-between;
+    background-color: darkslategrey;
+    border-radius: 10px;
+ 
+}
+#fitems2{
+    background-color:dimgray
+}
+.logo img{
+    margin-left: 20px;
+    height: 40px;
+    width: 100px;
+}
+a{
+    text-decoration:none;
+    color: black;
+  
+}

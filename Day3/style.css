@@ -1,0 +1,26 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.fitems{
+    width: 140px;
+    height: 150px;
+    border: solid black;
+    background-color: antiquewhite;
+    margin: 20px;
+    font-size: 30px;
+    text-align: center;
+    align-content: center;
+
+}
+.fcontainer{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+    height: 200px;
+    border: solid black;
+}
+#fitems1{
+    flex-grow: 3;
+}
