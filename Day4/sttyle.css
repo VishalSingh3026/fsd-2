@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.main{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 5px;
+}
+
+.items{
+    border: solid rgb(51, 47, 47) 1px;
+    height: 200px;
+}
+.item1{
+    grid-column-start:1;
+    grid-column-end: 4;
+    height: 10vh;
+    display: flex;
+    background-color: #1C4353;
+    align-items: center;
+    justify-content: space-between;
+}
+.cont{
+    margin-right:90px;
+    width: 40vw;
+    display: flex;
+    justify-content: space-between;
+    font-size: 23px;
+}
+.cont a{
+    text-decoration: none;
+    cursor: pointer;
+    color: #a9def4;
+    font-weight: 14px;
+    background-color: #344d58;
+    border: solid skyblue 1px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.cont a:hover{
+    background-color: #1C4353;
+    border: solid white 1px;
+    color: white;
+}
+.item1 h2{
+    font-size: 30px;
+    margin-left: 40px;
+    color: #a7dff8;
+
+}
+
+.item2{
+    grid-column-start: 1;
+    grid-column-end: 4;
+    height: 90vh;
+    border: solid black;
+}
+.item2 img{
+    width: 100vw;
+    height: 90vh;
+}
