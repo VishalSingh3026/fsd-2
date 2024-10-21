@@ -16,3 +16,9 @@ function validate()
         alert("invalid username or password");
     }
 }
+
+// let a=()=>{
+//     console.log("Hello");
+// };
+// a();
+
