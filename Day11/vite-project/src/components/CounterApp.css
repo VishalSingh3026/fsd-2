@@ -1,0 +1,25 @@
+.disp {
+    display: flex;
+    flex-direction: column;
+    border: 3px solid black;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+  }
+  
+  .header {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    background-color: blueviolet;
+    width: 70%;
+    height: 40px;
+    text-align: center;
+  }
+  .btn {
+    width: 70%;
+    height: 60px;
+    background-color: darkorange;
+    margin: 20px;
+    font-size: 40px;
+  }

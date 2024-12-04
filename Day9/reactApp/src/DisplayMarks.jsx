@@ -10,6 +10,7 @@ const DisplayMarks = () => {
     { name: "Rahul", roll: 98666, m1: 79, m2: 78, m3: 69 },
     { name: "Rahul", roll: 98666, m1: 79, m2: 78, m3: 69 },
     { name: "Rahul", roll: 98666, m1: 79, m2: 78, m3: 69 },
+
   ];
   return (
     <div>
