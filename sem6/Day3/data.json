@@ -1,0 +1,26 @@
+[
+    {
+    "roll_no": 101,
+    "name": "John Doe",
+    "class": "10th",
+    "sec": "A"
+    },
+    {
+    "roll_no": 102,
+    "name": "Jane Smith",
+    "class": "10th",
+    "sec": "B"
+    },
+    {
+    "roll_no": 103,
+    "name": "Alice Johnson",
+    "class": "9th",
+    "sec": "A"
+    },
+    {
+    "roll_no": 104,
+    "name": "Bob Williams",
+    "class": "11th",
+    "sec": "C"
+    }
+]
